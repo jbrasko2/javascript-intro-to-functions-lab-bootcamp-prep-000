@@ -12,5 +12,7 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string) {
 return string('hello')
+return string('HELLO')
+return string('I love you, Grandma')
 }
 
