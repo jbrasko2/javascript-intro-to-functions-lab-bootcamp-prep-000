@@ -21,5 +21,6 @@ else if (string.toUpperCase(string) === string) {
   return uppercase;
 }
 else if ("I love you, Grandma." === string) {
+  return love;
 }
 }
