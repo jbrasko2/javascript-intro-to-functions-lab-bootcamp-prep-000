@@ -16,9 +16,9 @@ var uppercase = "YES INDEED"
 var love = "I love you, too."
 if (string.toLowerCase(string) === string) {
 return lowercase;
-if (string.toUpperCase(string) === string) {
+}
+else if (string.toUpperCase(string) === string) {
   return uppercase;
+}
 else if (string.)
-}
-}
 
