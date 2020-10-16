@@ -12,7 +12,5 @@ function logWhisper(string) {
 }
 function sayHiToGrandma(string) {
 sayHiToGrandma('I love you, Grandma')
-return string.toLowerCase()
-return string.toUpperCase()
 }
 
