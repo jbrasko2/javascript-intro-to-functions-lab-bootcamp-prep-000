@@ -20,5 +20,5 @@ return lowercase;
 else if (string.toUpperCase(string) === string) {
   return uppercase;
 }
-else if (string.)
+else if "I love you"
 
