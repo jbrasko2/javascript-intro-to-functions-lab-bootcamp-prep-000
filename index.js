@@ -18,7 +18,7 @@ if (string.toLowerCase(string) === string) {
 return lowercase;
 if (string.toUpperCase(string) === string) {
   return uppercase;
-if (string.)
+else if (string.)
 }
 }
 
